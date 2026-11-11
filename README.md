@@ -2,14 +2,14 @@
 
 > **Lightning-fast, self-hostable image hosting using GitHub repositories and jsDelivr CDN. Get permanent URLs that work forever, even if your repo gets deleted.**
 
-![Picser Banner](https://cdn.jsdelivr.net/gh/sh20raj/picser@main/public/og/og-image.png)
+![Picser Banner](https://cdn.jsdelivr.net/gh/playlikeboy/picser@main/public/og/og-image.png)
 
-[![GitHub Stars](https://img.shields.io/github/stars/sh20raj/picser?style=social)](
+[![GitHub Stars](https://img.shields.io/github/stars/playlikeboy/picser?style=social)](
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sh20raj/picser)
-[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sh20raj/picser)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/playlikeboy/picser)
+[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/playlikeboy/picser)
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fpicser&countColor=%232ccce4&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fpicser)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fpicser&countColor=%232ccce4&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fpicser)
 
 ## ✨ Why Choose Picser?
 
@@ -75,9 +75,9 @@
 
 ### Option 1: One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sh20raj/picser)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/playlikeboy/picser)
 
-[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sh20raj/picser)
+[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/playlikeboy/picser)
 
 ### Option 2: Manual Setup
 
@@ -149,7 +149,7 @@ curl -X POST \
 
 ### Option 2: Self-Host on Cloudflare Pages (Free)
 
-1. **Fork the repository**: [github.com/sh20raj/picser](https://github.com/sh20raj/picser)
+1. **Fork the repository**: [github.com/playlikeboy/picser](https://github.com/playlikeboy/picser)
 2. **Connect to Cloudflare Pages**:
    - Visit [Cloudflare Pages](https://pages.cloudflare.com)
    - Connect your GitHub account

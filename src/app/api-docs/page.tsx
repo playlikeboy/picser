@@ -36,7 +36,7 @@ export default function APIDocumentation() {
     const [copiedCode, setCopiedCode] = useState<string | null>(null);
     const [formData, setFormData] = useState({
         githubToken: '',
-        githubOwner: 'sh20raj',
+        githubOwner: 'playlikeboy',
         githubRepo: 'picser',
         githubBranch: 'main',
         folder: 'uploads'
@@ -339,7 +339,7 @@ print(result)
                         </div>
                         <div className="flex items-center space-x-4">
                             <a
-                                href="https://github.com/sh20raj/picser"
+                                href="https://github.com/playlikeboy/picser"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center space-x-2 text-slate-600 hover:text-slate-900 transition-colors"
@@ -390,7 +390,7 @@ print(result)
                                 </p>
                                 <div className="space-y-2">
                                     <a
-                                        href="https://github.com/sh20raj/picser"
+                                        href="https://github.com/playlikeboy/picser"
                                         target="_blank"
                                         className="inline-block text-xs bg-green-100 text-green-800 px-2 py-1 rounded hover:bg-green-200 transition-colors"
                                     >
@@ -464,7 +464,7 @@ print(result)
                                 type="text"
                                 value={formData.githubOwner}
                                 onChange={(e) => setFormData({ ...formData, githubOwner: e.target.value })}
-                                placeholder="sh20raj"
+                                placeholder="playlikeboy"
                                 className="w-full px-4 py-3 border text-amber-950 border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                             />
                         </div>
@@ -847,7 +847,7 @@ print(result)
                                 type="text"
                                 value={formData.githubOwner}
                                 onChange={(e) => setFormData({ ...formData, githubOwner: e.target.value })}
-                                placeholder="sh20raj"
+                                placeholder="playlikeboy"
                                 className="w-full px-4 py-3 border text-amber-950 border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                             />
                         </div>
@@ -1049,7 +1049,7 @@ print(result)
                                 Try Web Upload
                             </Link>
                             <a
-                                href="https://github.com/sh20raj/picser"
+                                href="https://github.com/playlikeboy/picser"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center px-6 py-3 bg-slate-600 text-white rounded-xl hover:bg-slate-700 transition-colors font-medium"
@@ -1086,7 +1086,7 @@ print(result)
                                 API Docs
                             </Link>
                             <Link
-                                href="https://github.com/sh20raj/picser"
+                                href="https://github.com/playlikeboy/picser"
                                 target="_blank"
                                 className="text-slate-600 hover:text-blue-600 transition-colors font-medium"
                             >

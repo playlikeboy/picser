@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-4">
               <Link
-                href="https://github.com/sh20raj/picser"
+                href="https://github.com/playlikeboy/picser"
                 target="_blank"
                 className="flex items-center space-x-2 px-3 py-2 text-sm font-medium text-slate-600 hover:text-blue-600 hover:bg-blue-50/50 rounded-lg transition-all duration-200"
               >
@@ -121,7 +121,7 @@ export default function Home() {
                 API Docs
               </Link>
               <Link
-                href="https://github.com/sh20raj/picser"
+                href="https://github.com/playlikeboy/picser"
                 target="_blank"
                 className="text-slate-600 hover:text-blue-600 transition-colors font-medium"
               >
@@ -141,7 +141,7 @@ export default function Home() {
               <p className="text-sm text-slate-600">
                 Built with ❤️ by{' '}
                 <Link
-                  href="https://github.com/sh20raj"
+                  href="https://github.com/playlikeboy"
                   target="_blank"
                   className="text-blue-600 hover:text-blue-700 font-medium transition-colors"
                 >

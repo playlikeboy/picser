@@ -29,7 +29,7 @@ Meet **Picser** - a FREE image hosting solution that uses GitHub + jsDelivr CDN 
 🔥 API for automated workflows
 
 Try it live: picser.pages.dev
-GitHub: github.com/sh20raj/picser
+GitHub: github.com/playlikeboy/picser
 
 **Why this matters:** Every developer faces the "where do I host my images?" problem. Traditional solutions are either expensive, unreliable, or have strict limits. Picser leverages existing free infrastructure (GitHub + jsDelivr) to create a bulletproof solution.
 
